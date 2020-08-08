@@ -1,11 +1,11 @@
 # Hallo, ik ben Anthony 👋
 
 <div>
-<a href="https://anthonyteo.com/assets/Anthony-Teo-Resume.pdf"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
-<a href="https://anthonyteo.com"><img src="https://anthonyteo.com/images/link.svg" width="24px" height="24px" align="left"></a>
-<a href="https://medium.com/@eightants"><img src="https://anthonyteo.com/images/medium.svg" width="24px" height="24px" align="left"></a>
-<a href="https://twitter.com/yihonganthony"><img src="https://anthonyteo.com/images/twitter.svg" width="24px" height="24px" align="left"></a>
-<a href="https://www.linkedin.com/in/anthonyteo"><img src="https://anthonyteo.com/images/linkedin.svg" width="24px" height="24px" align="left"></a>
+<a href="https://anthonyteo.com/assets/Anthony-Teo-Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
+<a href="https://anthonyteo.com" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/link.svg" width="24px" height="24px" align="left"></a>
+<a href="https://medium.com/@eightants" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/medium.svg" width="24px" height="24px" align="left"></a>
+<a href="https://twitter.com/yihonganthony" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/twitter.svg" width="24px" height="24px" align="left"></a>
+<a href="https://www.linkedin.com/in/anthonyteo" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/linkedin.svg" width="24px" height="24px" align="left"></a>
 </div>
 <br/><br/><br/>
 
