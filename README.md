@@ -1,4 +1,4 @@
-## Hallo, ik ben Anthony 👋
+# Hallo, ik ben Anthony 👋
 
 <div>
 <a href="https://anthonyteo.com/assets/Anthony-Teo-Resume.pdf"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
