@@ -9,10 +9,10 @@
 </div>
 <br/><br/><br/>
 
-**I'm a full-stack developer with an interest in the digital experience.**
+**I'm a full stack developer with an interest in the digital experience.**
 
-- 🎨 I'm currently leading the design team organizing hackathons at [TAMUhack](https://tamuhack.com)
-- 🎶 I'm currently working on [Whisperify](https://whisperify.net/), an **open source** music quiz and analysis platform
+- 🎨 Creative Director at [TAMUhack](https://tamuhack.com)
+- 🎶 Working on [Whisperify](https://whisperify.net/), an **open source** music quiz and analysis platform
 - ⚙️ Frequently use: `.js`, `.ts`, `.html`, `.css`, `.py`, `.cpp`, `.psd`, `.ai`, `.ind`
 - 🌱 Learning all about machine learning through projects
 - 📝 Sharing my implementations and discoveries through writing
