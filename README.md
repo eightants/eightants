@@ -11,11 +11,11 @@
 
 **I'm a full stack developer with an interest in the digital experience.**
 
-- 🎨 Creative Director at [TAMUhack](https://tamuhack.com)
-- 🎶 Working on [Whisperify](https://whisperify.net/), an **open source** music quiz and analysis platform
+- 🎨 Creative Director at **[TAMUhack](https://tamuhack.com)**
+- 🎶 Working on **[Whisperify](https://whisperify.net/)**, an open source music quiz and analysis platform
 - ⚙️ Frequently use: `.js`, `.ts`, `.html`, `.css`, `.py`, `.cpp`, `.psd`, `.ai`, `.ind`
 - 🌱 Learning all about machine learning through projects
-- 📝 Sharing my implementations and discoveries through writing
+- 📝 Sharing my implementations and discoveries [through writing](https://medium.com/@eightants)
 - ⚡ Fun fact: I'm a huge fan of Formula 1, tweet at me during race week!
 
 <br/>
@@ -30,7 +30,7 @@
   An concise and efficient way to apply the Spotify duotone effect on images in `<canvas>` elements for download. [Read about it here](https://codeburst.io/build-spotifys-colorizer-effect-with-javascript-35cb75fc638c). 
 
 - **[tamuhack-org / Ouroboros](https://github.com/tamuhack-org/Ouroboros)**</br>
-  An open-source, fully-customizable hackathon registration system. Used at TAMUhack and by various hackathons. 
+  An open-source, fully-customizable hackathon registration system. Used by TAMUhack and various hackathons. 
 
 [My repos →](https://github.com/eightants?tab=repositories)
 
