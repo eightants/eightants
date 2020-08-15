@@ -16,7 +16,7 @@
 - ⚙️ Frequently use: `.js`, `.ts`, `.html`, `.css`, `.py`, `.cpp`, `.psd`, `.ai`, `.ind`
 - 🌱 Learning all about machine learning [through projects](https://github.com/eightants/carlos)
 - 📝 Sharing my implementations and discoveries [through writing](https://medium.com/@eightants)
-- ⚡ Fun fact: I'm a huge fan of Formula 1, tweet at me during race week!
+- ⚡ Fun fact: I'm a huge fan of Formula 1, [tweet at me](https://twitter.com/yihonganthony) during race week!
 
 <br/>
 
@@ -27,7 +27,7 @@
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
 - **[carlos](https://github.com/eightants/carlos)**<br/>
-  Exploring Spotify's machine learning personalization algorithms, implementing them with Python and JavaScript, and creating writeups for each study in Jupyter notebooks. The ML component for Whisperify, recreating Spotify's taste profile. 
+  Exploring Spotify's machine learning personalization algorithms, implementing them with Python and JavaScript, and creating writeups for each study in Jupyter notebooks. The ML component for Whisperify aiming to recreate Spotify's taste profile. 
 
 - **[Spotify Duotone Filter with Canvas API](https://gist.github.com/6286d8a69cccf9304871c867a9144e19)**<br/>
   An concise and efficient way to apply the Spotify duotone effect on images in `<canvas>` elements for download. <br/>
