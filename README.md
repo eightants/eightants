@@ -13,7 +13,7 @@
 
 - 🎨 Creative Director at **[TAMUhack](https://tamuhack.com)**
 - 🎶 Working on **[Whisperify](https://whisperify.net/)**, an open source music quiz and analysis platform
-- ⚙️ Frequently use: `.js`, `.ts`, `.html`, `.css`, `.py`, `.cpp`, `.psd`, `.ai`, `.ind`
+- ⚙️ Frequently use: `.js`, `.ts`, `.html`, `.css`, `.py`, `.fig`, `.cpp`, `.psd`, `.ai`, `.ind`
 - 🌱 Learning all about machine learning [through projects](https://github.com/eightants/carlos)
 - 📝 Sharing my implementations and discoveries [through writing](https://medium.com/@eightants)
 - ⚡ Fun fact: I'm a huge fan of Formula 1, [tweet at me](https://twitter.com/yihonganthony) during race week!
