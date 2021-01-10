@@ -1,9 +1,9 @@
 # Hallo, ik ben Anthony 👋
 
 <div>
-<a href="https://anthonyteo.com" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/link.svg" width="32px" height="32px" align="left"></a> 
-<a href="https://medium.com/@eightants" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/medium.svg" width="32px" height="32px" align="left" style="margin-left: 4px"></a> 
-<a href="https://twitter.com/yihonganthony" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/twitter.svg" width="32px" height="32px" align="left" style="margin-left: 4px"></a>
+<a href="https://anthonyteo.com" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/link.svg" width="36px" height="36px" align="left"></a> 
+<a href="https://medium.com/@eightants" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/medium.svg" width="36px" height="36px" align="left"></a> 
+<a href="https://twitter.com/yihonganthony" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/readme/twitter.svg" width="36px" height="36px" align="left"></a>
 </div>
 <br/><br/><br/>
 
@@ -24,7 +24,7 @@
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
-- **[reddium](https://github.com/eightants/reddium)** (4K+ monthly users)<br/>
+- **[reddium](https://github.com/eightants/reddium)** (6K+ monthly users)<br/>
   Medium-themed Reddit client. Converts Reddit posts, discussions, and memes into articles. <br/>
   [Visit Reddium](https://reddium.vercel.app/)
 
