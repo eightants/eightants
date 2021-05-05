@@ -9,22 +9,20 @@
 
 **I'm a full stack developer with an interest in the digital experience.**
 
-- 🎨 Creative Director at **[TAMUhack](https://tamuhack.com)**
+- 🎨 Organizing hackathons at **[TAMUhack](https://tamuhack.com)**
 - 🎶 Working on **[Whisperify](https://whisperify.net/)**, an open source music quiz and analysis platform
 - ⚙️ Frequently use: `.ts`, `.js`, `.html`, `.css`, `.py`, `.fig`, `.cpp`, `.psd`, `.ai`, `.ind`
-- 🌱 Learning all about machine learning [through projects](https://github.com/eightants/carlos)
-- 📝 Sharing my implementations and discoveries [through writing](https://medium.com/@eightants)
 - ⚡ Fun fact: I'm a huge fan of Formula 1, [tweet at me](https://twitter.com/yihonganthony) during race week!
 
 <br/>
 
 **Notable Repos**
 
-- **[whisperify](https://github.com/eightants/whisperify)** (7K+ monthly users)<br/>
+- **[whisperify](https://github.com/eightants/whisperify)** (8K+ monthly users)<br/>
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
-- **[reddium](https://github.com/eightants/reddium)** (6K+ monthly users)<br/>
+- **[reddium](https://github.com/eightants/reddium)** (5K+ monthly users)<br/>
   Medium-themed Reddit client. Converts Reddit posts, discussions, and memes into articles. <br/>
   [Visit Reddium](https://reddium.vercel.app/)
 
