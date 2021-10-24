@@ -18,7 +18,7 @@
 
 **Notable Repos**
 
-- **[whisperify](https://github.com/eightants/whisperify)** (8K+ monthly users)<br/>
+- **[whisperify](https://github.com/eightants/whisperify)** (15K+ monthly users)<br/>
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
