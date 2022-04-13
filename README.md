@@ -1,12 +1,5 @@
 # Hallo, ik ben Anthony 👋
 
-<div>
-<a href="https://anthonyteo.com"><img src="https://anthonyteo.com/images/readme/link.svg" width="36px" height="36px" align="left"></a> 
-<a href="https://medium.com/@eightants"><img src="https://anthonyteo.com/images/readme/medium.svg" width="36px" height="36px" align="left"></a> 
-<a href="https://twitter.com/yihonganthony"><img src="https://anthonyteo.com/images/readme/twitter.svg" width="36px" height="36px" align="left"></a>
-</div>
-<br/><br/><br/>
-
 **I'm a software engineer building human-centered interfaces and digital experiences.**
 
 - 🎨 Organizing hackathons at **[TAMUhack](https://tamuhack.com)**
