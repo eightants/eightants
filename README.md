@@ -11,11 +11,11 @@
 
 **Notable Repos**
 
-- **[whisperify](https://github.com/eightants/whisperify)** (15K+ monthly users)<br/>
+- **[whisperify](https://github.com/eightants/whisperify)** (30K+ monthly users)<br/>
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
-- **[reddium](https://github.com/eightants/reddium)** (5K+ monthly users)<br/>
+- **[reddium](https://github.com/eightants/reddium)** (40K+ monthly users)<br/>
   Medium-themed Reddit client. Converts Reddit posts, discussions, and memes into articles. <br/>
   [Visit Reddium](https://reddium.vercel.app/)
 
