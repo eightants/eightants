@@ -5,18 +5,18 @@
 - ⏯️ Showing viewers and content creators how much time they spend on YouTube with **[Video Recap](https://videorecap.viewodyssey.com/)**
 - 🎶 Working on **[Whisperify](https://whisperify.net/)**, an open source music quiz and analysis platform
 - 🎨 Organized hackathons at **[TAMUhack](https://tamuhack.com)**
-- ⚙️ Frequently use: `.ts`, `.js`, `.html`, `.css`, `.py`, `.fig`, `.cpp`, `.psd`, `.ai`, `.blend`
+- ⚙️ Frequently use: `.ts`, `.js`, `.html`, `.css`, `.py`, `.fig`, `.swift`, `.cpp`, `.psd`, `.lrm`
 - ⚡ Fun fact: I'm a huge fan of Formula 1, [tweet at me](https://twitter.com/yihonganthony) during race week!
 
 <br/>
 
 **Notable Repos**
 
-- **[whisperify](https://github.com/eightants/whisperify)** (30K+ monthly users)<br/>
+- **[whisperify](https://github.com/eightants/whisperify)** (40K+ monthly users)<br/>
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
-- **[reddium](https://github.com/eightants/reddium)** (40K+ monthly users)<br/>
+- **[reddium](https://github.com/eightants/reddium)** (30K+ monthly users)<br/>
   Medium-themed Reddit client. Converts Reddit posts, discussions, and memes into articles. <br/>
   [Visit Reddium](https://reddium.vercel.app/)
 
