@@ -16,7 +16,7 @@
   An open source music quiz and analysis platform. Quiz yourself on your favourite Spotify songs, share quizzes with friends, and discover music. <br/>
   [Visit Whisperify](https://whisperify.net/) or [read the documentation](https://whisperify.net/documentation). 
 
-- **[reddium](https://github.com/eightants/reddium)** (30K+ monthly users)<br/>
+- **[reddium](https://github.com/eightants/reddium)** (30K+ monthly users, sunsetted Jan 2024)<br/>
   Medium-themed Reddit client. Converts Reddit posts, discussions, and memes into articles. <br/>
   [Visit Reddium](https://reddium.vercel.app/)
 
