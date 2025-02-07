@@ -1,4 +1,4 @@
-# Hallo, ik ben Anthony 👋
+# Hey, I'm Anthony 👋
 
 **I'm a software engineer building human-centered interfaces and digital experiences.**
 
