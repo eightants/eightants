@@ -4,8 +4,7 @@
 
 - ⏯️ Showing viewers and content creators how much time they spend on YouTube with **[Video Recap](https://videorecap.viewodyssey.com/)**
 - 🎶 Working on **[Whisperify](https://whisperify.net/)**, an open source music quiz and analysis platform
-- 🎨 Organized hackathons at **[TAMUhack](https://tamuhack.com)**
-- ⚙️ Frequently use: `.ts`, `.js`, `.html`, `.css`, `.py`, `.fig`, `.swift`, `.cpp`, `.psd`, `.lrm`
+- ⚙️ Frequently use: `.ts`, `.js`, `.html`, `.css`, `.py`, `.fig`, `.cpp`, `.psd`, `.lrm`
 - ⚡ Fun fact: I'm a huge fan of Formula 1, [tweet at me](https://twitter.com/yihonganthony) during race week!
 
 <br/>
